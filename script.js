@@ -1,8 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:Gómez;Juan;Alejandro;;
-FN:Juan Alejandro Gómez
+FN:Ventas Armenia Cervalle
 TEL:+57 3118814207
 EMAIL;TYPE=WORK: ventasarmenia@cervalle.com
 END:VCARD`;
